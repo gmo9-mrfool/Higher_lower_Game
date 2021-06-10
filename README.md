@@ -1,13 +1,4 @@
-# Higher_lower_Game
-    __  ___       __             
-   / / / (_)___ _/ /_  ___  _____
-  / /_/ / / __ `/ __ \/ _ \/ ___/
- / __  / / /_/ / / / /  __/ /    
-/_/ ///_/\__, /_/ /_/\___/_/     
-   / /  /____/_      _____  _____
-  / /   / __ \ | /| / / _ \/ ___/
- / /___/ /_/ / |/ |/ /  __/ /    
-/_____/\____/|__/|__/\___/_/     
+# Higher_lower_Game  
 
 This should be my first optimized game :) Although its command based and i need much more to learn, i am getting there lol
 So in this Game you have to choose between 2 data given(data contains celebrities,counties,magazines etc), We need to guess which who has more followers.
